@@ -1,0 +1,81 @@
+Trường ĐH Hồng Đức đã công bố mức điểm trúng tuyển bằng phương thức sử dụng kết quả thi tốt nghiệp trung học phổ thông năm 2024 vào các ngành đào tạo chính quy trình độ đại học.
+
+Theo đó, bằng phương thức sử dụng kết quả thi tốt nghiệp THPT năm 2024, Trường ĐH Hồng Đức có điểm trúng tuyển các nhóm ngành/ngành tương đối đồng đều. 
+
+Trong đó, nhóm ngành sư phạm có mức điểm trúng tuyển cao nhất với 28,83 điểm là ngành Sư phạm Ngữ Văn, tiếp đến là ngành Sư phạm Lịch sử - Địa lý với 28,58 điểm, ngành Giáo dục Tiểu học với 28,42 điểm.
+
+Có 3 mã ngành có điểm chuẩn trúng tuyển đạt trên 26 điểm là: Giáo dục Mầm non; Sư phạm Toán và Sư phạm Tiếng Anh. 
+
+Có 18 mã ngành có điểm chuẩn trúng tuyển là 15 điểm và 5 mã ngành có điểm chuẩn trúng tuyển là 16 điểm.
+
+Trong đó, 4 ngành đào tạo được tuyển mới năm 2024 đó là: Logistics và Quản lý chuỗi cung ứng, Kinh tế nông nghiệp, Huấn luyện thể thao, Quản lý xây dựng đều có điểm chuẩn trúng tuyển là 15 điểm.
+
+Điểm chuẩn theo phương thức Điểm thi THPT năm 2024:
+1 | 7140201 | Giáo dục Mầm non | 26.20  
+2 | 7140202 | Giáo dục Tiểu học | 28.42  
+3 | 7140209 | Sư phạm Toán học | 26.28  
+4 | 7140247 | Sư phạm Khoa học Tự nhiên | 25.75  
+5 | 7140210 | Sư phạm Tin học | 24.87  
+6 | 7140217 | Sư phạm Ngữ văn | 28.83  
+7 | 7140249 | Sư phạm Lịch sử - Địa lý | 28.58  
+8 | 7140231 | Sư phạm Tiếng Anh | 26.85  
+9 | 7340301 | Kế toán | 16.00  
+10 | 7340101 | Quản trị kinh doanh | 16.00  
+11 | 7340201 | Tài chính Ngân hàng | 15.00  
+12 | 7340302 | Kiểm toán | 15.00  
+13 | 7310101 | Kinh tế | 15.00  
+14 | 7510605 | Logistics và quản lý chuỗi cung ứng | 15.00  
+15 | 7380101 | Luật | 16.00  
+16 | 7380107 | Luật Kinh tế | 15.00  
+17 | 7580201 | Kỹ thuật xây dựng | 15.00  
+18 | 7580302 | Quản lý xây dựng | 15.00  
+19 | 7520201 | Kỹ thuật điện | 15.00  
+20 | 7480201 | Công nghệ thông tin | 16.00  
+21 | 7320104 | Truyền thông đa phương tiện | 15.00  
+22 | 7620110 | Khoa học cây trồng | 15.00  
+23 | 7620119 | Chăn nuôi Thủy | 15.00  
+24 | 7850103 | Quản lý đất đai | 15.00  
+25 | 7620115 | Kinh tế nông nghiệp | 15.00  
+26 | 7620201 | Lâm học | 15.00  
+27 | 7220201 | Ngôn ngữ Anh | 16.00  
+28 | 7810101 | Du lịch | 15.00  
+29 | 7810201 | Quản trị khách sạn | 15.00  
+30 | 7310401 | Tâm lý học | 15.00  
+31 | 7810302 | Huấn luyện thể thao | 15.00  
+
+Điểm chuẩn theo phương thức Điểm học bạ năm 2024:
+STT | Mã ngành | Tên ngành | Tổ hợp môn | Điểm chuẩn
+1 | 7140201 | Giáo dục Mầm non | M00; M05; M07; M11 | 25.54
+2 | 7140202 | Giáo dục Tiểu học | A00; C00; D01; M00 | 28.63
+3 | 7140209 | Sư phạm Toán học | A00; A01; A02; D07 | 29.37
+4 | 7140210 | Sư phạm Tin học | A00; A01; D01; D84 | 27.76
+5 | 7140217 | Sư phạm Ngữ văn | C00; C19; C20; D01 | 28.58
+6 | 7140231 | Sư phạm Tiếng Anh | A00; D01; D09; D10 | 29.1
+7 | 7140247 | Sư phạm KH Tự nhiên | A00; A02; B00; C01 | 28.94
+8 | 7140249 | Sư phạm Lịch sử - Địa lý | C00; C19; C20; D15 | 28.13
+9 | 7220201 | Ngôn ngữ Anh | A00; D01; D14; D66 | 21
+10 | 7310101 | Kinh tế | A00; C04; C14; D01 | 16.5
+11 | 7310401 | Tâm lý học | B00; C00; C19; D01 | 18
+12 | 7320104 | Truyền thông đa phương tiện | D01; C04; A01; C14 | 19
+13 | 7340101 | Quản trị kinh doanh | A00; C04; C14; D01 | 20
+14 | 7340201 | Tài chính - Ngân hàng | A00; C04; C14; D01 | 18
+15 | 7340301 | Kế toán | A00; C04; C14; D01 | 20
+16 | 7340302 | Kiểm toán | A00; C04; C14; D01 | 16.5
+17 | 7380101 | Luật | A00; C00; C19; C20 | 16.5
+18 | 7380107 | Luật Kinh tế | A00; C00; C19; C20 | 18
+19 | 7480201 | Công nghệ thông tin | A00; A01; D01; D84 | 20
+20 | 7510605 | Logistics và quản lý chuỗi cung ứng | A00; C04; C14; D01 | 19
+21 | 7520201 | Kỹ thuật điện | A00; A01; A02; B00 | 16.5
+22 | 7580201 | Kỹ thuật xây dựng | A00; A01; A02; B00 | 16.5
+23 | 7580302 | Quản lý xây dựng | A00; A01; A02; B00 | 16.5
+24 | 7620106 | Chăn nuôi - Thú y | A00; B00; C14; C20 | 16.5
+25 | 7620110 | Khoa học cây trồng | A00; B00; C14; C20 | 16.5
+26 | 7620115 | Kinh tế nông nghiệp | A00; B00; C14; C20 | 16.5
+27 | 7620201 | Lâm học | A00; B00; C14; C20 | 16.5
+28 | 7810101 | Du lịch | C00; C19; C20; D66 | 16.5
+29 | 7810201 | Quản trị khách sạn | D01; C04; C14; C20 | 16.5
+30 | 7810302 | Huấn luyện thể thao | T00; T02; T05; T07 | 16.5
+31 | 7850103 | Quản lý đất đai | A00; B00; C14; C20 | 16.5
+
+Thí sinh trúng tuyển sẽ có thời gian xác nhận nhập học và nhập học từ 19/8/2024 đến trước 17h00 ngày 27/8/2024, thí sinh phải hoàn thành xác nhận nhập học trực tuyến đợt 1 trên hệ thống của Bộ Giáo dục và Đào tạo hoặc đến Trường Đại học Hồng Đức để được hỗ trợ.
+
