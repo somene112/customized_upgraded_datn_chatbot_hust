@@ -1,4 +1,4 @@
-Read me như project gốc
+README như project gốc
 # 🎓 Trợ Lý Ảo Tuyển Sinh - Đại học Bách Khoa Hà Nội
 
 ## 📌 Mô tả dự án
